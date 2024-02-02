@@ -2,8 +2,4 @@ Name - Isaiah Muckerheide
 Hobby - Poker, Volleyball, hanging out with friends and family
 Defree -  Web and Software Developer
 
--Scott removed this line
-
-Making changes for the git assignment.
-
-Kou - changing this branch
+Is currently running the main branch and team branch of this Git assignment.
